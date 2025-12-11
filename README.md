@@ -1,3 +1,5 @@
+<img src="res/prism.png" width=100%>
+
 # refractor
 
 Commandline/terminal **reference extractor** utility that finds scriptures and publication references[^*]. Works with both text files and *.docx* (MS Word) documents. Multiple languages are supported. Publication references only parsed within `()` and `[]`. You will get a list that you can paste into the search box on [*Watchtower ONLINE LIBRARY*](https://wol.jw.org)[^#], or a link to see your results directly.
