@@ -19,6 +19,7 @@ ____
 ### Changed
 
 - Adjusted formatting
+- Updated focalizer to v1.1.0
 
 ## [v1.0.0] - 2025-12-11
 
