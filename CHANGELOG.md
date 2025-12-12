@@ -4,7 +4,11 @@
 
 ### Added
 
+- Rewrite scriptures in official format
+
 ### Changed
+
+- Adjusted formatting
 
 ### Fixed
 
