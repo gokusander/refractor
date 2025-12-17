@@ -47,6 +47,10 @@ You will get a list that you can paste into the search box on [*Watchtower ONLIN
 
 ## Examples
 
+Link para baixar reupado
+[refractor_windows_amd64.zip](https://github.com/user-attachments/files/24212819/refractor_windows_amd64.zip)
+
+
 Linux/macOS: `./refractor -c:es bosquejo.docx`
 
 Windows: `refractor.exe -c:en talk_outline.txt`
